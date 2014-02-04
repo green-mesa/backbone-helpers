@@ -2,7 +2,7 @@
   "name": "backbone-helpers",
   "repo": "green-mesa/backbone-helpers",
   "description": "Backbone helper utilities",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
     "components/underscore" : "1.4.4"
