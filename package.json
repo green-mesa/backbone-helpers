@@ -1,0 +1,17 @@
+{
+  "name"          : "backbone-helpers",
+  "description"   : "Some random dependencies for standalone versions of Backbone Model and Backbone Collection",
+  "url"           : "http://backbonejs.org",
+  "keywords"      : ["backbone", "dependency", "client", "browser"],
+  "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
+  "dependencies"  : {
+    "underscore"  : "1.4.4"
+  },
+  "main"          : "index.js",
+  "version"       : "1.0.0",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-mesa/backbone-helpers.git"
+  }
+}
