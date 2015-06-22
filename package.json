@@ -5,10 +5,10 @@
   "keywords"      : ["backbone", "dependency", "client", "browser"],
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "dependencies"  : {
-    "underscore"  : "1.4.4"
+    "underscore"  : "1.8.3"
   },
   "main"          : "index.js",
-  "version"       : "1.0.2",
+  "version"       : "1.0.4",
   "license"       : "MIT",
   "repository": {
     "type": "git",
